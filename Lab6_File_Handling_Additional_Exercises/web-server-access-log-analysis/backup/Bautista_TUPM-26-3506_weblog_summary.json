@@ -1,8 +1,23 @@
 {
     "records_processed": 1022,
     "target_status_class": "4xx",
-    "records_in_target_class": 0,
-    "count_per_status_code": {},
-    "top_five_urls": [],
+    "records_in_target_class": 5,
+    "count_per_status_code": {
+        "200": 844,
+        "206": 8,
+        "302": 144,
+        "304": 21,
+        "404": 5
+    },
+    "top_five_urls": [
+        {
+            "url": "GET /robots.txt HTTP/1.1",
+            "count": 4
+        },
+        {
+            "url": "GET /favicon.ico HTTP/1.1",
+            "count": 1
+        }
+    ],
     "filtered_csv_file": "Bautista_TUPM-26-3506_weblog_filtered.csv"
 }
