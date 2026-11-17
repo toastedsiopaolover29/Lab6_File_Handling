@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Bautista
+Student ID: TUPM-26-3506
+Seed Digit: 6
+ID Sum: 22
+Verification Value: 182
+Dataset Sample Size: 72
+Valid Records: 72
+Average Global Active Power: 4.044
+JSON File: Bautista_TUPM-26-3506_record.json
+Backup File: Bautista_TUPM-26-3506_record.csv

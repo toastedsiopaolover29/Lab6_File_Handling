@@ -1,0 +1,5 @@
+Student: Bautista
+Student ID: TUPM-26-3506
+Seed digit: 6
+ID sum: 22
+Verification value: 182
