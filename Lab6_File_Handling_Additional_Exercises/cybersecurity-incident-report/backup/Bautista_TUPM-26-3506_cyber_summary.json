@@ -1,0 +1,37 @@
+{
+    "target_year": 2021,
+    "total_records": 3000,
+    "incidents_in_year": 299,
+    "count_per_attack_type": {
+        "Phishing": 41,
+        "SQL Injection": 59,
+        "Malware": 49,
+        "DDoS": 47,
+        "Ransomware": 55,
+        "Man-in-the-Middle": 48
+    },
+    "total_financial_loss": 15873.41,
+    "average_financial_loss": 53.09,
+    "five_costliest_incidents": [
+        {
+            "attack_type": "DDoS",
+            "loss": 99.81
+        },
+        {
+            "attack_type": "Ransomware",
+            "loss": 99.77
+        },
+        {
+            "attack_type": "SQL Injection",
+            "loss": 98.76
+        },
+        {
+            "attack_type": "SQL Injection",
+            "loss": 98.57
+        },
+        {
+            "attack_type": "SQL Injection",
+            "loss": 98.09
+        }
+    ]
+}

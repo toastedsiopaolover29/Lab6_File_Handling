@@ -1,0 +1,11 @@
+{
+    "operating_system": "Android",
+    "behavior_class": 2,
+    "total_records": 700,
+    "records_matching_os": 554,
+    "records_in_target_class": 114,
+    "average_battery_drain": 887.11,
+    "average_data_usage": 451.44,
+    "count_verification": true,
+    "exported_csv": "Bautista_TUPM-26-3506_mobile_profile.csv"
+}

@@ -1,0 +1,15 @@
+CYBERSECURITY INCIDENT REPORT
+----------------------------------------
+Target Year: 2021
+Total Dataset Records: 3000
+Incidents In Year: 299
+Total Loss: 15873.41
+Average Loss: 53.09
+
+COUNT PER ATTACK TYPE
+Phishing: 41
+SQL Injection: 59
+Malware: 49
+DDoS: 47
+Ransomware: 55
+Man-in-the-Middle: 48
